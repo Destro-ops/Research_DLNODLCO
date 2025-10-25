@@ -1,0 +1,40 @@
+DLCO (diffusing capacity of the lungs for carbon monoxide) its a measure of how well the lungs transfer gases from air sacs into blood.
+
+DLCO assesses the ability of gases to move from the tiny air sacs in the lungs (alveoli) into the bloodstream, specifically measuring how much carbon monoxide (CO) passes into the blood. 
+
+During a DLCO test, a patient breathes in a small amount of carbon monoxide, holds their breath for a short time, and then exhales. The machine then measures how much carbon monoxide has diffused into the blood
+
+Conditions like COPD, pulmonary fibrosis, and pulmonary hypertension can lead to a decreased DLCO, indicating impaired gas exchange. 
+
+- Compare the patient's measured DLNO and DLCO values against predicted normal values based on age, sex, height, and ethnicity.
+- Values are typically expressed in mL/min/mmHg or as a % of predicted.
+🔹 A score < 80% of predicted might suggest impaired gas exchange.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So What Does the Ratio Tell Us? Because DLNO bypasses the blood volume component, the DLNO/DLCO ratio helps separate out the two key contributors to gas exchange:
+- High ratio 🟢 (DLNO preserved, DLCO reduced): Suggests problems with pulmonary capillary blood volume, like pulmonary vascular disease or anemia.
+- Low ratio 🔴 (DLNO reduced, DLCO also low): Points to membrane thickening or damage—think interstitial lung diseases like fibrosis.
+🩺 Example Interpretations: | DLNO/DLCO Ratio | Likely Interpretation                        | Associated Conditions                          | |----------------|---------------------------------------------|-----------
+
+

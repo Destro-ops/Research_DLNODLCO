@@ -1,0 +1,4 @@
+l1 and l2 regularization
+enocoders
+feature selection lasso
+bias and variance
